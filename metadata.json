@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "kU2k9gL3YYgCy8yg5ZGvbUYJq2SLYaR-",
+        "plugin": "media-extended",
+        "language": "zh-cn",
+        "version": "4.2.7",
+        "supported_versions": "4.2.7",
+        "title": "Media Extended",
+        "description": "Media Extended Localization & Tweaks",
+        "hash": "1cadc8df1cadc8df1cadc8df1cadc8df",
+        "created_at": "2026-06-25T03:04:50.731Z",
+        "updated_at": "2026-06-25T03:04:50.731Z",
+        "type": "plugin"
+    }
+]
